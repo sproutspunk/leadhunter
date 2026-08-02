@@ -1,0 +1,1801 @@
+[
+  {
+    "url": "https://www.pizzaexpress.com/london-450-strand",
+    "domain": "www.pizzaexpress.com",
+    "timestamp": "2026-08-02T18:47:12.054366",
+    "geo": {
+      "name": "PizzaExpress",
+      "url": "https://www.pizzaexpress.com/london-450-strand",
+      "address": "The Strand, 450, London, WC2R 0RG",
+      "city": "London",
+      "county": "",
+      "postcode": "WC2R 0RG",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.508406,
+      "lon": -0.126123,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.16
+    },
+    "status_code": null,
+    "ssl_score": 30,
+    "responsive_score": 50,
+    "tech_stack_score": 8,
+    "performance_score": 0,
+    "seo_score": 5,
+    "design_age_score": 15,
+    "security_score": 60,
+    "cms_age_score": 0,
+    "total_score": 19,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "category": "ssl",
+        "score": 30,
+        "details": {
+          "has_ssl": true,
+          "valid": true,
+          "expiry": "2026-10-25T23:59:59",
+          "issuer": [
+            [
+              [
+                "countryName",
+                "GB"
+              ]
+            ],
+            [
+              [
+                "stateOrProvinceName",
+                "Greater Manchester"
+              ]
+            ],
+            [
+              [
+                "localityName",
+                "Salford"
+              ]
+            ],
+            [
+              [
+                "organizationName",
+                "Sectigo Limited"
+              ]
+            ],
+            [
+              [
+                "commonName",
+                "Sectigo RSA Organization Validation Secure Server CA"
+              ]
+            ]
+          ],
+          "days_left": 84.3
+        }
+      },
+      {
+        "type": "no_media_queries",
+        "severity": "medium",
+        "message": "Brak zapytań @media w kodzie",
+        "category": "responsive"
+      },
+      {
+        "type": "fixed_width",
+        "severity": "low",
+        "message": "86 elementów ze stałą szerokością w px",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "ie_hacks",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: ie_hacks",
+        "category": "tech_stack"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "fixed_container",
+        "severity": "medium",
+        "message": "Stała szerokość kontenera (~800-1024px)",
+        "category": "design"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak HSTS",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Frame-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Content-Type-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak Referrer-Policy",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "ie_hacks",
+      "inline_styles"
+    ],
+    "modern_tech_detected": [
+      "lazy_loading"
+    ],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:13 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "body-hash": "DypHRfhUQsgy4swx3dc/xseu83WI+OJEtNZR7CTS/nrHB8pCsP/0qvtQVOKUvlHyMowBbW74ftvqHklzg1EjJg==",
+      "Cache-Control": "max-age=0, s-maxage=3600, must-revalidate",
+      "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=5,cfOrigin;dur=34",
+      "last-modified": "Wed, 29 Jul 2026 12:47:47 GMT",
+      "owner": "",
+      "pe-restaurantid": "2091",
+      "pe-restaurantname": "London 450 Strand",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "vary": "Accept-Encoding",
+      "x-yext-pages-logs-business-id": "2263751",
+      "x-yext-pages-logs-entity-id": "12660816",
+      "x-yext-pages-logs-feature-id": "entity",
+      "x-yext-pages-logs-locale": "en-GB",
+      "x-yext-pages-logs-site-id": "148461",
+      "x-yext-serving-tags": "static_file",
+      "x-yext-site": "ne2",
+      "via": "1.1 google",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "set-cookie": "__cf_bm=kSp5B1KjibieQTHb8YcD7ujpk_a0RA1iJ0zNqUrF7g0-1785692833.5154908-1.0.1.1-teIeh8tCBEmw7G7ajNLRhSFaJJjtxLyiD96W5ETiFty2NqXTkRrp9YfP.0EAC_ba9JH_ktY8APoQMTxQCTwj9XR2HNxpdquJ6ZjByvei8paXfojhlm9t.ejPnJdLQirk; HttpOnly; SameSite=None; Secure; Path=/; Domain=pizzaexpress.com; Expires=Sun, 02 Aug 2026 18:17:13 GMT",
+      "Server": "cloudflare",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a24ee8117882a935-MAN"
+    },
+    "page_size_kb": 71.93359375,
+    "load_time_ms": 289.046049118042,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2026-10-25T23:59:59",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "GB"
+          ]
+        ],
+        [
+          [
+            "stateOrProvinceName",
+            "Greater Manchester"
+          ]
+        ],
+        [
+          [
+            "localityName",
+            "Salford"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Sectigo Limited"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "Sectigo RSA Organization Validation Secure Server CA"
+          ]
+        ]
+      ],
+      "days_left": 84.3
+    },
+    "dns_info": {
+      "mx": [],
+      "a": [
+        "104.18.7.94",
+        "104.18.6.94"
+      ],
+      "txt": []
+    },
+    "whois_info": {
+      "creation_date": "1998-11-04 05:00:00+00:00",
+      "registrar": "Abion AB",
+      "name_servers": [
+        "ALEX.NS.CLOUDFLARE.COM",
+        "POLA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://happyrestaurants.com/",
+    "domain": "happyrestaurants.com",
+    "timestamp": "2026-08-02T18:47:15.853608",
+    "geo": {
+      "name": "HAPPY",
+      "url": "https://happyrestaurants.com/",
+      "address": "Coventry Street, 25-29, London, W1D 7AG",
+      "city": "London",
+      "county": "",
+      "postcode": "W1D 7AG",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5101296,
+      "lon": -0.1324716,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.44
+    },
+    "status_code": null,
+    "ssl_score": 30,
+    "responsive_score": 30,
+    "tech_stack_score": 3,
+    "performance_score": 10,
+    "seo_score": 30,
+    "design_age_score": 15,
+    "security_score": 60,
+    "cms_age_score": 0,
+    "total_score": 19,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "category": "ssl",
+        "score": 30,
+        "details": {
+          "has_ssl": true,
+          "valid": true,
+          "expiry": "2026-09-24T15:57:08",
+          "issuer": [
+            [
+              [
+                "countryName",
+                "US"
+              ]
+            ],
+            [
+              [
+                "organizationName",
+                "Google Trust Services"
+              ]
+            ],
+            [
+              [
+                "commonName",
+                "WE1"
+              ]
+            ]
+          ],
+          "days_left": 52.9
+        }
+      },
+      {
+        "type": "no_media_queries",
+        "severity": "medium",
+        "message": "Brak zapytań @media w kodzie",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "no_lazy_loading",
+        "severity": "low",
+        "message": "Tylko 0/25 obrazków ma lazy loading",
+        "category": "performance"
+      },
+      {
+        "type": "missing_canonical",
+        "severity": "low",
+        "message": "Brak linku canonical",
+        "category": "seo"
+      },
+      {
+        "type": "missing_schema",
+        "severity": "medium",
+        "message": "Brak danych strukturalnych Schema.org",
+        "category": "seo"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "fixed_container",
+        "severity": "medium",
+        "message": "Stała szerokość kontenera (~800-1024px)",
+        "category": "design"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak HSTS",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Frame-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Content-Type-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak Referrer-Policy",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "inline_styles"
+    ],
+    "modern_tech_detected": [],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:17 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Server": "cloudflare",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "Set-Cookie": "ci_session=ntqrhi8rh37f1ph1ekhs0autuahkk9fe; expires=Tue, 04-Aug-2026 17:47:17 GMT; Max-Age=172800; path=/; HttpOnly",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "cf-cache-status": "DYNAMIC",
+      "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=6,cfOrigin;dur=140",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zpSlEl%2F%2FOUGmYsaZjA8sRjKeFlh6KlMm7WuDB6SuhylJe4GTT2kNrk%2B6v1G00YKSJlFx6ottzuailctpX%2FEDuE9Nm0hVkyuYsjs4aXpaDMlz%2BuAZmPpDycbB8etIW5GyH8McbnaYHLuE1x4%2F28YXegH5bw%3D%3D\"}]}",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a24ee82a583b3840-LHR",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "page_size_kb": 33.18359375,
+    "load_time_ms": 616.8129444122314,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2026-09-24T15:57:08",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Google Trust Services"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "WE1"
+          ]
+        ]
+      ],
+      "days_left": 52.9
+    },
+    "dns_info": {
+      "mx": [
+        "5 alt2.aspmx.l.google.com.",
+        "1 aspmx.l.google.com.",
+        "10 aspmx2.googlemail.com.",
+        "10 aspmx3.googlemail.com.",
+        "5 alt1.aspmx.l.google.com."
+      ],
+      "a": [
+        "104.21.14.4",
+        "172.67.133.150"
+      ],
+      "txt": [
+        "\"google-site-verification=-w0dreswjzi-uenpjsvgf0vjaeeurecsoqbbg5q_ete\"",
+        "\"google-site-verification=t_gtvny8qgd0b3u3l9p9lpq6vitfr3pfuxyjqhmgybi\"",
+        "\"v=spf1 include:_spf.google.com +include:spf1.abilixsoft.eu ~all\"",
+        "\"MS=ms41995346\""
+      ]
+    },
+    "whois_info": {
+      "creation_date": "[datetime.datetime(2016, 5, 11, 18, 51, 38, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2016, 5, 11, 13, 51, 38, tzinfo=tzoffset('UTC', 0))]",
+      "registrar": "GoDaddy.com, LLC",
+      "name_servers": [
+        "DAVE.NS.CLOUDFLARE.COM",
+        "GENE.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://www.byronhamburgers.com",
+    "domain": "www.byronhamburgers.com",
+    "timestamp": "2026-08-02T18:47:17.179123",
+    "geo": {
+      "name": "Byron",
+      "url": "https://www.byronhamburgers.com",
+      "address": "Wellington Street, 33-35, London, WC2E 7BN",
+      "city": "London",
+      "county": "",
+      "postcode": "WC2E 7BN",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5120973,
+      "lon": -0.1207484,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.71
+    },
+    "status_code": null,
+    "ssl_score": 30,
+    "responsive_score": 30,
+    "tech_stack_score": 0,
+    "performance_score": 10,
+    "seo_score": 60,
+    "design_age_score": 15,
+    "security_score": 60,
+    "cms_age_score": 0,
+    "total_score": 22,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "category": "ssl",
+        "score": 30,
+        "details": {
+          "has_ssl": true,
+          "valid": true,
+          "expiry": "2026-10-22T03:34:38",
+          "issuer": [
+            [
+              [
+                "countryName",
+                "US"
+              ]
+            ],
+            [
+              [
+                "organizationName",
+                "Google Trust Services"
+              ]
+            ],
+            [
+              [
+                "commonName",
+                "WE1"
+              ]
+            ]
+          ],
+          "days_left": 80.4
+        }
+      },
+      {
+        "type": "no_media_queries",
+        "severity": "medium",
+        "message": "Brak zapytań @media w kodzie",
+        "category": "responsive"
+      },
+      {
+        "type": "no_cache",
+        "severity": "low",
+        "message": "Brak nagłówków cache-control",
+        "category": "performance"
+      },
+      {
+        "type": "missing_description",
+        "severity": "high",
+        "message": "Brak meta description",
+        "category": "seo"
+      },
+      {
+        "type": "missing_canonical",
+        "severity": "low",
+        "message": "Brak linku canonical",
+        "category": "seo"
+      },
+      {
+        "type": "missing_og",
+        "severity": "low",
+        "message": "Brak tagów Open Graph",
+        "category": "seo"
+      },
+      {
+        "type": "missing_schema",
+        "severity": "medium",
+        "message": "Brak danych strukturalnych Schema.org",
+        "category": "seo"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "no_external_css",
+        "severity": "medium",
+        "message": "Brak zewnętrznych arkuszy CSS",
+        "category": "design"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak HSTS",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Frame-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Content-Type-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak Referrer-Policy",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [],
+    "modern_tech_detected": [],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:19 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=NgDzT2f6z1SufKk8mT%2BcYeIhVr5Ur6htS%2FNR24cMtgUwWEhSnMwWrTCmvWpUdPg7lBxiZUc0FB7v3wEkLnHcoPx1vM%2BFUaIjfp58C2ZA5aTFL%2F8KwXkBncRRT1cnkN553LqlpfBG1e9HBHzIcy21yDkQ2jPyJQ%3D%3D\"}]}",
+      "X-Powered-By": "PHP/8.2.32",
+      "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Vary": "Accept-Encoding,User-Agent",
+      "Server": "cloudflare",
+      "WPX": "1",
+      "X-turbo-charged-by": "LiteSpeed",
+      "cf-cache-status": "DYNAMIC",
+      "Content-Encoding": "gzip",
+      "CF-RAY": "a24ee832ea82d24d-LHR",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "page_size_kb": 1.548828125,
+    "load_time_ms": 1057.305097579956,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2026-10-22T03:34:38",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Google Trust Services"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "WE1"
+          ]
+        ]
+      ],
+      "days_left": 80.4
+    },
+    "dns_info": {
+      "mx": [],
+      "a": [
+        "104.21.61.179",
+        "172.67.212.155"
+      ],
+      "txt": []
+    },
+    "whois_info": {
+      "creation_date": "[datetime.datetime(2007, 10, 8, 11, 29, 6, tzinfo=tzoffset('UTC', 0)), datetime.datetime(2007, 10, 8, 6, 29, 6, tzinfo=tzoffset('UTC', 0))]",
+      "registrar": "GoDaddy.com, LLC",
+      "name_servers": [
+        "ANDERSON.NS.CLOUDFLARE.COM",
+        "ELISA.NS.CLOUDFLARE.COM"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://www.strada.co.uk/italian-restaurant/royal-festival-hall",
+    "domain": "www.strada.co.uk",
+    "timestamp": "2026-08-02T18:47:18.785119",
+    "geo": {
+      "name": "Strada",
+      "url": "https://www.strada.co.uk/italian-restaurant/royal-festival-hall",
+      "address": "Royal Festival Hall, London, SE1 8XX",
+      "city": "London",
+      "county": "",
+      "postcode": "SE1 8XX",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5058554,
+      "lon": -0.1176662,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.72
+    },
+    "status_code": null,
+    "ssl_score": 0,
+    "responsive_score": 0,
+    "tech_stack_score": 0,
+    "performance_score": 0,
+    "seo_score": 0,
+    "design_age_score": 0,
+    "security_score": 0,
+    "cms_age_score": 0,
+    "total_score": 100,
+    "is_obsolete": true,
+    "is_hot_lead": true,
+    "priority": "critical",
+    "findings": [],
+    "tech_detected": [],
+    "modern_tech_detected": [],
+    "headers": {},
+    "page_size_kb": 0.0,
+    "load_time_ms": 0.0,
+    "ssl_info": {},
+    "dns_info": {},
+    "whois_info": {},
+    "error": "Nie udało się pobrać strony"
+  },
+  {
+    "url": "https://www.wagamama.com/restaurants/london/royal-festival-hall-southbank",
+    "domain": "www.wagamama.com",
+    "timestamp": "2026-08-02T18:47:20.671020",
+    "geo": {
+      "name": "Wagamama",
+      "url": "https://www.wagamama.com/restaurants/london/royal-festival-hall-southbank",
+      "address": "Royal Festival Hall, Riverside Level, London, SE1 8XX",
+      "city": "London",
+      "county": "",
+      "postcode": "SE1 8XX",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5057566,
+      "lon": -0.1177658,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.72
+    },
+    "status_code": null,
+    "ssl_score": 0,
+    "responsive_score": 20,
+    "tech_stack_score": 0,
+    "performance_score": 10,
+    "seo_score": 5,
+    "design_age_score": 35,
+    "security_score": 12,
+    "cms_age_score": 0,
+    "total_score": 10,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "type": "fixed_width",
+        "severity": "low",
+        "message": "101 elementów ze stałą szerokością w px",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "no_cache",
+        "severity": "low",
+        "message": "Brak nagłówków cache-control",
+        "category": "performance"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "heavy_inline_styles",
+        "severity": "medium",
+        "message": "55 inline styles",
+        "category": "design"
+      },
+      {
+        "type": "fixed_container",
+        "severity": "medium",
+        "message": "Stała szerokość kontenera (~800-1024px)",
+        "category": "design"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "inline_styles"
+    ],
+    "modern_tech_detected": [
+      "nuxtjs",
+      "webp",
+      "lazy_loading",
+      "http3"
+    ],
+    "headers": {
+      "Content-Type": "text/html;charset=utf-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Date": "Sun, 02 Aug 2026 17:47:23 GMT",
+      "Content-Encoding": "gzip",
+      "x-amzn-RequestId": "1fe18140-f849-4a5f-802a-e86400cbf31a",
+      "access-control-allow-origin": "*",
+      "access-control-allow-headers": "*",
+      "access-control-allow-methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
+      "x-powered-by": "Nuxt",
+      "access-control-expose-headers": "*",
+      "X-Amzn-Trace-Id": "Root=1-6a6f82aa-6c258ad51249c85307b6443d;Parent=63cc5ff0f3c6c584;Sampled=0;Lineage=1:ecf85639:0",
+      "access-control-allow-credentials": "true",
+      "Vary": "Accept-Encoding",
+      "X-Cache": "Miss from cloudfront",
+      "Via": "1.1 1f440b6f0424a445f1d01b84762bad0e.cloudfront.net (CloudFront)",
+      "X-Amz-Cf-Pop": "MAN51-P4",
+      "X-Amz-Cf-Id": "OK0ydIqoXC6doNM1AaAX4DKlpJKhaXnA10NbuQeFK6Yk0E-swKczMw==",
+      "X-XSS-Protection": "1; mode=block",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "X-Content-Type-Options": "nosniff",
+      "Strict-Transport-Security": "max-age=31536000"
+    },
+    "page_size_kb": 263.0869140625,
+    "load_time_ms": 1382.861614227295,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2027-01-04T23:59:59",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Amazon"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "Amazon RSA 2048 M01"
+          ]
+        ]
+      ],
+      "days_left": 155.3
+    },
+    "dns_info": {
+      "mx": [],
+      "a": [
+        "3.165.148.26",
+        "3.165.148.48",
+        "3.165.148.49",
+        "3.165.148.13"
+      ],
+      "txt": []
+    },
+    "whois_info": {
+      "creation_date": "1995-07-06 04:00:00+00:00",
+      "registrar": "Amazon Registrar, Inc.",
+      "name_servers": [
+        "NS-1244.AWSDNS-27.ORG",
+        "NS-1683.AWSDNS-18.CO.UK",
+        "NS-898.AWSDNS-48.NET",
+        "NS-96.AWSDNS-12.COM"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://www.iguanas.co.uk/restaurants/london-royal-festival-hall",
+    "domain": "www.iguanas.co.uk",
+    "timestamp": "2026-08-02T18:47:23.139877",
+    "geo": {
+      "name": "Las Iguanas",
+      "url": "https://www.iguanas.co.uk/restaurants/london-royal-festival-hall",
+      "address": "Festival Terrace, London, SE1 8XX",
+      "city": "London",
+      "county": "",
+      "postcode": "SE1 8XX",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5055602,
+      "lon": -0.1176655,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.73
+    },
+    "status_code": null,
+    "ssl_score": 30,
+    "responsive_score": 20,
+    "tech_stack_score": 0,
+    "performance_score": 10,
+    "seo_score": 5,
+    "design_age_score": 20,
+    "security_score": 60,
+    "cms_age_score": 0,
+    "total_score": 16,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "category": "ssl",
+        "score": 30,
+        "details": {
+          "has_ssl": true,
+          "valid": true,
+          "expiry": "2026-09-28T15:33:08",
+          "issuer": [
+            [
+              [
+                "countryName",
+                "US"
+              ]
+            ],
+            [
+              [
+                "organizationName",
+                "Let's Encrypt"
+              ]
+            ],
+            [
+              [
+                "commonName",
+                "YE2"
+              ]
+            ]
+          ],
+          "days_left": 56.9
+        }
+      },
+      {
+        "type": "fixed_width",
+        "severity": "low",
+        "message": "23 elementów ze stałą szerokością w px",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "yui",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: yui",
+        "category": "tech_stack"
+      },
+      {
+        "type": "no_lazy_loading",
+        "severity": "low",
+        "message": "Tylko 1/18 obrazków ma lazy loading",
+        "category": "performance"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "heavy_inline_styles",
+        "severity": "medium",
+        "message": "87 inline styles",
+        "category": "design"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak HSTS",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Frame-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Content-Type-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak Referrer-Policy",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "inline_styles",
+      "yui"
+    ],
+    "modern_tech_detected": [
+      "nuxtjs",
+      "webp",
+      "lazy_loading"
+    ],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:24 GMT",
+      "Content-Type": "text/html;charset=utf-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Cache-Control": "s-maxage=900, stale-while-revalidate",
+      "last-modified": "Sun, 02 Aug 2026 17:10:12 GMT",
+      "Set-Cookie": "ARRAffinity=eeb30d996daf8c7ca9b44245eecfbb15295adca0e748f328d05eb7c7d32d028c;Path=/;HttpOnly;Secure;Domain=www.iguanas.co.uk, ARRAffinitySameSite=eeb30d996daf8c7ca9b44245eecfbb15295adca0e748f328d05eb7c7d32d028c;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.iguanas.co.uk",
+      "strict-transport-security": "max-age=31536000; preload",
+      "content-security-policy": "style-src 'self' 'unsafe-inline' *.googleapis.com *.google-analytics.com *.gstatic.com *.tenkites.com tkmenus.com partners.designmynight.com atlas.microsoft.com *.cdn-cookieyes.com *.liveres.co.uk *.braintreegateway.com *.googleads cdn.co-buying.com https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css *.instagram.com use.typekit.net https://use.typekit.net/wca6end.css https://p.typekit.net https://p.typekit.net/p.css; font-src 'self' data: *.googleapis.com *.google-analytics.com *.gstatic.com *.tenkites.com tkmenus.com atlas.microsoft.com *.liveres.co.uk *.braintreegateway.com *.googleads cdn.co-buying.com *.instagram.com use.typekit.net; script-src 'self' data: 'unsafe-inline' 'unsafe-eval' *.googletagmanager.com *.googleapis.com *.hotjar.com cdn-cookieyes.com *.tiktok.com *.licdn.com *.ads-twitter.com *.twitter.com *.bing.com *.facebook.net *.google.com *.gstatic.com *.google-analytics.com *.exponea.com *.tenkites.com tkmenus.com *.braintreegateway.com menus.tenkites.com code.jquery.com secure.livebookings.com atlas.microsoft.com connect.facebook.net *.liveres.co.uk https://songbird.cardinalcommerce.com https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput.min.js https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/utils.min.js https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js *.recaptcha.net *.googleads cdn.co-buying.com *.instagram.com use.typekit.net www.redditstatic.com; worker-src 'self' blob: atlas.microsoft.com; frame-ancestors 'self' *.googleapis.com *.google.com *.gstatic.com menus.tenkites.com cdn.co-buying.com https://app.contentful.com; object-src 'none'; frame-src 'self' *.liveres.co.uk *.braintreegateway.com *.google.com *.recaptcha.net",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "permissions-policy": "camera=(), microphone=(self \"https://web.lovebite.app\"), geolocation=(self)",
+      "x-powered-by": "Nuxt",
+      "cf-cache-status": "DYNAMIC",
+      "Content-Encoding": "gzip",
+      "Server": "cloudflare",
+      "CF-RAY": "a24ee856ee82bd71-LHR"
+    },
+    "page_size_kb": 180.04296875,
+    "load_time_ms": 331.30383491516113,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2026-09-28T15:33:08",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Let's Encrypt"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "YE2"
+          ]
+        ]
+      ],
+      "days_left": 56.9
+    },
+    "dns_info": {
+      "mx": [],
+      "a": [
+        "104.20.47.39",
+        "172.66.148.30"
+      ],
+      "txt": []
+    },
+    "whois_info": {
+      "creation_date": "1999-09-09 00:00:00+00:00",
+      "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+      "name_servers": [
+        "nadia.ns.cloudflare.com",
+        "sam.ns.cloudflare.com"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://www.giraffe.net/",
+    "domain": "www.giraffe.net",
+    "timestamp": "2026-08-02T18:47:24.135947",
+    "geo": {
+      "name": "Giraffe",
+      "url": "https://www.giraffe.net/",
+      "address": "Riverside Level 1, London, SE1 8XX",
+      "city": "London",
+      "county": "",
+      "postcode": "SE1 8XX",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5063119,
+      "lon": -0.1171395,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.75
+    },
+    "status_code": null,
+    "ssl_score": 30,
+    "responsive_score": 30,
+    "tech_stack_score": 13,
+    "performance_score": 10,
+    "seo_score": 30,
+    "design_age_score": 0,
+    "security_score": 60,
+    "cms_age_score": 0,
+    "total_score": 19,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "category": "ssl",
+        "score": 30,
+        "details": {
+          "has_ssl": true,
+          "valid": true,
+          "expiry": "2026-10-30T00:32:39",
+          "issuer": [
+            [
+              [
+                "countryName",
+                "US"
+              ]
+            ],
+            [
+              [
+                "organizationName",
+                "Let's Encrypt"
+              ]
+            ],
+            [
+              [
+                "commonName",
+                "YR1"
+              ]
+            ]
+          ],
+          "days_left": 88.3
+        }
+      },
+      {
+        "type": "no_media_queries",
+        "severity": "medium",
+        "message": "Brak zapytań @media w kodzie",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "ie_hacks",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: ie_hacks",
+        "category": "tech_stack"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "slow_load",
+        "severity": "low",
+        "message": "Czas ładowania: 1735ms (>1.5s)",
+        "category": "performance"
+      },
+      {
+        "type": "missing_canonical",
+        "severity": "low",
+        "message": "Brak linku canonical",
+        "category": "seo"
+      },
+      {
+        "type": "missing_schema",
+        "severity": "medium",
+        "message": "Brak danych strukturalnych Schema.org",
+        "category": "seo"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak HSTS",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Frame-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Content-Type-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak Referrer-Policy",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "ie_hacks",
+      "inline_styles"
+    ],
+    "modern_tech_detected": [],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "Cache-Control": "no-cache, private",
+      "Permissions-Policy": "interest-cohort=()",
+      "Set-Cookie": "XSRF-TOKEN=eyJpdiI6ImtzZjMyYWp5UUJZMlpxaVJLRDNxTVE9PSIsInZhbHVlIjoiUDNYaDBVaWhKWmdKbXlaWVdrOHJpV05meXNOcjJ2TGQzVGJyNCtZQkpPdlEydnJsdmFQY1BJVUR4V0pxM3FMTW9zWEdOSjZ6TmhJWWZIUjJrb0N1UHg4MXd4UnhlcURtbzZvdEZ0dDlNdjdhWXdZVjYrR0RpMnora01ZRis0cGciLCJtYWMiOiI5ZWU4MDkxYjVhMzMyYWY0NWYzNTQxNTYwNzg0Y2I2YTkwNDA2YWE5NTEyM2Y3OWRhMTYyNGNlZmRhMzA1YjQ1IiwidGFnIjoiIn0%3D; expires=Sun, 02 Aug 2026 19:47:27 GMT; Max-Age=7200; path=/; secure; samesite=lax, statamic_session=eyJpdiI6Imt4UFpZRXVMZkg5cDJET3NUajdZenc9PSIsInZhbHVlIjoiWm1ETm5HaFJHbFd1NUFUeFBhY0NhWWxVYnFzOVhhOWNGTW1GZllhODE4OGM4V1NzdjZuN3BYUVlwWklibDF4ZlQxS3RHZkNhZS9TUFhpTEhQdzNvdWdnZGc5T3Z4WjJ1Tll3N0pyb2QwU1RMSmMzZ3JzY2pXanp1SXRGS05TbmUiLCJtYWMiOiI5NjQ4OGYwOGI1ZjJmYjk4ZDgzZWVhNDBiNDNkN2FlZTA1NjkwZDRkNmVlY2U2NDQ1YTdlY2QxMmQzYjk5OWI1IiwidGFnIjoiIn0%3D; expires=Sun, 02 Aug 2026 19:47:27 GMT; Max-Age=7200; path=/; httponly; samesite=lax, sl-session=Km78Ri/UcGrIs2465I45Nw==; SameSite=None; Secure; Path=/; Max-Age=86400; HttpOnly",
+      "Content-Encoding": "gzip"
+    },
+    "page_size_kb": 727.1708984375,
+    "load_time_ms": 1735.022783279419,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2026-10-30T00:32:39",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Let's Encrypt"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "YR1"
+          ]
+        ]
+      ],
+      "days_left": 88.3
+    },
+    "dns_info": {
+      "mx": [],
+      "a": [
+        "34.147.144.32"
+      ],
+      "txt": []
+    },
+    "whois_info": {
+      "creation_date": "1998-01-23 05:00:00+00:00",
+      "registrar": "CSC Corporate Domains, Inc.",
+      "name_servers": [
+        "DNS1.CSCDNS.NET",
+        "DNS2.CSCDNS.NET"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://www.cote.co.uk/restaurant/royal-festival-hall",
+    "domain": "www.cote.co.uk",
+    "timestamp": "2026-08-02T18:47:36.541815",
+    "geo": {
+      "name": "Côte Brasserie",
+      "url": "https://www.cote.co.uk/restaurant/royal-festival-hall",
+      "address": "Belvedere Road, London, SE1 8XX",
+      "city": "London",
+      "county": "",
+      "postcode": "SE1 8XX",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5053303,
+      "lon": -0.1169288,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.79
+    },
+    "status_code": null,
+    "ssl_score": 0,
+    "responsive_score": 30,
+    "tech_stack_score": 0,
+    "performance_score": 25,
+    "seo_score": 5,
+    "design_age_score": 20,
+    "security_score": 60,
+    "cms_age_score": 0,
+    "total_score": 16,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "type": "no_media_queries",
+        "severity": "medium",
+        "message": "Brak zapytań @media w kodzie",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "no_compression",
+        "severity": "medium",
+        "message": "Brak kompresji (gzip/brotli)",
+        "category": "performance"
+      },
+      {
+        "type": "no_cache",
+        "severity": "low",
+        "message": "Brak nagłówków cache-control",
+        "category": "performance"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "heavy_inline_styles",
+        "severity": "medium",
+        "message": "55 inline styles",
+        "category": "design"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak HSTS",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Frame-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Content-Type-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak Referrer-Policy",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "inline_styles"
+    ],
+    "modern_tech_detected": [
+      "nextjs",
+      "lazy_loading"
+    ],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:38 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "DENY",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+      "content-security-policy": "default-src 'self'; font-src 'self' data: https://*.userway.org https://*.exponea.com https://*.googleapis.com https://*.typeform.com; media-src 'self' https://cote-renaissance-be-develop.azurewebsites.net https://cote-renaissance-be.azurewebsites.net https://*.exponea.com https://*.google.com https://*.bing.com https://*.typeform.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.abtasty.com https://*.stripe.com https://*.googletagmanager.com https://*.google-analytics.com https://*.clarity.ms https://*.bing.com https://*.google.com https://*.userway.org https://*.freshchat.com https://*.exponea.com https://*.yextapis.com https://*.tenkites.com https://*.applicationinsights.azure.com https://*.monitor.azure.com https://*.cookiebot.com https://*.facebook.net https://*.facebook.com https://*.tiktok.com https://*.tiktokw.us https://*.typeform.com; style-src 'self' 'unsafe-inline' https://*.abtasty.com https://*.userway.org https://*.exponea.com https://*.freshchat.com https://*.facebook.net https://*.facebook.com https://*.tiktok.com https://*.tiktokw.us https://*.google.com https://*.bing.com https://*.typeform.com; img-src 'self' https://*.abtasty.com https://*.typeform.com data: https:; connect-src 'self' https://*.abtasty.com https://*.freeipapi.com https://*.locationiq.com https://*.google-analytics.com https://*.exponea.com https://*.tenkites.com https://*.azurewebsites.net https://*.doubleclick.net https://*.applicationinsights.azure.com https://*.monitor.azure.com https://*.clarity.ms  https://*.cookiebot.com https://*.userway.org https://*.facebook.com https://*.facebook.net https://*.tiktok.com https://*.tiktokw.us https://*.google.com https://*.bing.com https://*.typeform.com; frame-src 'self' https://*.abtasty.com https://*.facebook.com https://*.tiktok.com https://*.tiktokw.us https://*.stripe.com https://*.freshdesk.com https://*.cookiebot.com https://*.consentcdn.cookiebot.com https://*.freshchat.com https://*.userway.org https://*.exponea.com https://*.google.com https://*.bing.com https://*.typeform.com; worker-src 'self' blob:; frame-ancestors 'none'; upgrade-insecure-requests",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "link": "</_next/static/media/SangBleuSunrise_Medium_WebXL-s.p.1308f886.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/SangBleuSunrise_Regular_WebXL-s.p.d1d7977f.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/SangBleuVersailles_Bold_WebXL-s.p.e6a2fd42.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/SangBleuVersailles_Medium_WebXL-s.p.c876b3f1.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/instagram.60b1acc7.svg>; rel=preload; as=\"image\", </_next/static/media/facebook.818fe2ab.svg>; rel=preload; as=\"image\", </_next/static/media/linkedin.a66ff054.svg>; rel=preload; as=\"image\"",
+      "x-powered-by": "Next.js",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "content-encoding": "gzip",
+      "set-cookie": "mw_trust=1; Path=/; Expires=Mon, 03 Aug 2026 17:47:38 GMT; Max-Age=86400; Secure; HttpOnly; SameSite=lax",
+      "x-azure-ref": "20260802T174738Z-17c4b9b5b4cvrz4khC1LON90cn0000000160000000004g66",
+      "X-Cache": "CONFIG_NOCACHE"
+    },
+    "page_size_kb": 120.80859375,
+    "load_time_ms": 395.25532722473145,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2027-01-22T23:59:59",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "DigiCert Inc"
+          ]
+        ],
+        [
+          [
+            "organizationalUnitName",
+            "www.digicert.com"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "GeoTrust TLS RSA CA G1"
+          ]
+        ]
+      ],
+      "days_left": 173.3
+    },
+    "dns_info": {
+      "mx": [],
+      "a": [
+        "150.171.109.212"
+      ],
+      "txt": []
+    },
+    "whois_info": {
+      "creation_date": "1999-09-01 00:00:00+00:00",
+      "registrar": "123-Reg Limited t/a 123-reg [Tag = 123-REG]",
+      "name_servers": [
+        "pat.ns.cloudflare.com",
+        "terry.ns.cloudflare.com"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://www.honestburgers.co.uk/locations/south-bank/",
+    "domain": "www.honestburgers.co.uk",
+    "timestamp": "2026-08-02T18:47:37.488818",
+    "geo": {
+      "name": "Honest Burgers",
+      "url": "https://www.honestburgers.co.uk/locations/south-bank/",
+      "address": "Festival Terrace, 9, London, SE1 8XX",
+      "city": "London",
+      "county": "",
+      "postcode": "SE1 8XX",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5052621,
+      "lon": -0.1167109,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.8
+    },
+    "status_code": null,
+    "ssl_score": 30,
+    "responsive_score": 30,
+    "tech_stack_score": 8,
+    "performance_score": 20,
+    "seo_score": 15,
+    "design_age_score": 0,
+    "security_score": 12,
+    "cms_age_score": 0,
+    "total_score": 13,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "category": "ssl",
+        "score": 30,
+        "details": {
+          "has_ssl": true,
+          "valid": true,
+          "expiry": "2026-10-14T05:46:36",
+          "issuer": [
+            [
+              [
+                "countryName",
+                "US"
+              ]
+            ],
+            [
+              [
+                "organizationName",
+                "Google Trust Services"
+              ]
+            ],
+            [
+              [
+                "commonName",
+                "WE1"
+              ]
+            ]
+          ],
+          "days_left": 72.5
+        }
+      },
+      {
+        "type": "no_media_queries",
+        "severity": "medium",
+        "message": "Brak zapytań @media w kodzie",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "ie_hacks",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: ie_hacks",
+        "category": "tech_stack"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "no_cache",
+        "severity": "low",
+        "message": "Brak nagłówków cache-control",
+        "category": "performance"
+      },
+      {
+        "type": "no_lazy_loading",
+        "severity": "low",
+        "message": "Tylko 0/13 obrazków ma lazy loading",
+        "category": "performance"
+      },
+      {
+        "type": "missing_canonical",
+        "severity": "low",
+        "message": "Brak linku canonical",
+        "category": "seo"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "ie_hacks",
+      "inline_styles"
+    ],
+    "modern_tech_detected": [
+      "webp"
+    ],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:39 GMT",
+      "Content-Type": "text/html; charset=utf-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "keep-alive",
+      "CF-Ray": "a24ee8b0de3b414d-LHR",
+      "CF-Cache-Status": "DYNAMIC",
+      "Server": "cloudflare",
+      "Strict-Transport-Security": "max-age=31536000",
+      "Vary": "accept-encoding",
+      "Permissions-Policy": "accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(self), geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=(), clipboard-write=(self)",
+      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Report-To": "{\"group\":\"default\",\"max_age\":31536000,\"endpoints\":[{\"url\":\"https://honestburgers.report-uri.com/a/d/g\"}],\"include_subdomains\":true}",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "DENY",
+      "cf-edge-cache": "cache,platform=wordpress",
+      "Speculation-Rules": "\"/cdn-cgi/speculation\"",
+      "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=220,cfOrigin;dur=0",
+      "Content-Encoding": "gzip",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "page_size_kb": 111.3349609375,
+    "load_time_ms": 549.4375228881836,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2026-10-14T05:46:36",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Google Trust Services"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "WE1"
+          ]
+        ]
+      ],
+      "days_left": 72.5
+    },
+    "dns_info": {
+      "mx": [],
+      "a": [
+        "104.26.10.26",
+        "104.26.11.26",
+        "172.67.72.21"
+      ],
+      "txt": []
+    },
+    "whois_info": {
+      "creation_date": "2010-09-23 00:00:00+00:00",
+      "registrar": "Cloudflare, Inc. [Tag = CLOUDFLARE]",
+      "name_servers": [
+        "damiete.ns.cloudflare.com",
+        "galilea.ns.cloudflare.com"
+      ]
+    },
+    "error": null
+  },
+  {
+    "url": "https://aubaine.co.uk/locations/heddon-street/",
+    "domain": "aubaine.co.uk",
+    "timestamp": "2026-08-02T18:47:38.636963",
+    "geo": {
+      "name": "Aubaine",
+      "url": "https://aubaine.co.uk/locations/heddon-street/",
+      "address": "Heddon Street, 4, London, W1B 4BS",
+      "city": "London",
+      "county": "",
+      "postcode": "W1B 4BS",
+      "country": "UK",
+      "phone": "",
+      "lat": 51.5109108,
+      "lon": -0.1393146,
+      "source": "osm",
+      "category": "restaurant",
+      "distance_km": 0.89
+    },
+    "status_code": null,
+    "ssl_score": 0,
+    "responsive_score": 30,
+    "tech_stack_score": 0,
+    "performance_score": 10,
+    "seo_score": 5,
+    "design_age_score": 0,
+    "security_score": 60,
+    "cms_age_score": 0,
+    "total_score": 11,
+    "is_obsolete": false,
+    "is_hot_lead": false,
+    "priority": "low",
+    "findings": [
+      {
+        "type": "no_media_queries",
+        "severity": "medium",
+        "message": "Brak zapytań @media w kodzie",
+        "category": "responsive"
+      },
+      {
+        "type": "obsolete_tech",
+        "tech": "inline_styles",
+        "severity": "medium",
+        "message": "Wykryto przestarzałą technologię: inline_styles",
+        "category": "tech_stack"
+      },
+      {
+        "type": "no_lazy_loading",
+        "severity": "low",
+        "message": "Tylko 0/10 obrazków ma lazy loading",
+        "category": "performance"
+      },
+      {
+        "type": "no_sitemap_ref",
+        "severity": "low",
+        "message": "Brak odniesienia do sitemap",
+        "category": "seo"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak HSTS",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak CSP",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Frame-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak X-Content-Type-Options",
+        "category": "security"
+      },
+      {
+        "type": "missing_security_header",
+        "severity": "medium",
+        "message": "Brak Referrer-Policy",
+        "category": "security"
+      }
+    ],
+    "tech_detected": [
+      "inline_styles"
+    ],
+    "modern_tech_detected": [
+      "webp"
+    ],
+    "headers": {
+      "Date": "Sun, 02 Aug 2026 17:47:40 GMT",
+      "Server": "Apache",
+      "X-Powered-By": "PHP/8.3.32, PleskLin",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Cache-Control": "no-store, no-cache, must-revalidate",
+      "Pragma": "no-cache",
+      "Link": "<https://aubaine.co.uk/wp-json/>; rel=\"https://api.w.org/\", <https://aubaine.co.uk/wp-json/wp/v2/pages/7>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://aubaine.co.uk/>; rel=shortlink",
+      "Set-Cookie": "PHPSESSID=iagmu63gt0gdatr648uulq2b75; path=/",
+      "Vary": "Accept-Encoding,User-Agent",
+      "Content-Encoding": "gzip",
+      "Content-Length": "23443",
+      "Keep-Alive": "timeout=5, max=99",
+      "Connection": "Keep-Alive",
+      "Content-Type": "text/html; charset=UTF-8"
+    },
+    "page_size_kb": 104.0322265625,
+    "load_time_ms": 984.9834442138672,
+    "ssl_info": {
+      "has_ssl": true,
+      "valid": true,
+      "expiry": "2027-01-31T23:59:59",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "GB"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Sectigo Limited"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "Sectigo Public Server Authentication CA DV R36"
+          ]
+        ]
+      ],
+      "days_left": 182.3
+    },
+    "dns_info": {
+      "mx": [
+        "0 aubaine-co-uk.mail.eo.outlook.com."
+      ],
+      "a": [
+        "134.122.96.138"
+      ],
+      "txt": [
+        "\"google-site-verification=IlT1MoFWCo5LYUBiUKpn33EyTg73YE7Aw3Q0JpQGano\"",
+        "\"google-site-verification=FDH7kQFj3UizBIYCpSSlK87V2PX0gZMLJ8FxZIfhxWc\"",
+        "\"v=spf1 include:spf.protection.outlook.com include:spf-v6b.rocketseed.com include:authsmtp.com ~all\""
+      ]
+    },
+    "whois_info": {
+      "creation_date": "2004-08-03 00:00:00+00:00",
+      "registrar": "Register.com Inc [Tag = REGISTER-DOT-COM]",
+      "name_servers": [
+        "dns101.register.com",
+        "dns102.register.com"
+      ]
+    },
+    "error": null
+  }
+]

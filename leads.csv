@@ -1,0 +1,11 @@
+name,domain,url,city,county,postcode,country,total_score,priority,is_hot_lead,ssl_score,responsive_score,tech_stack_score,performance_score,seo_score,design_age_score,security_score,cms_age_score,load_time_ms,page_size_kb,tech_detected,modern_tech_detected,error
+PizzaExpress,www.pizzaexpress.com,https://www.pizzaexpress.com/london-450-strand,London,,WC2R 0RG,UK,19,low,False,30,50,8,0,5,15,60,0,289.046049118042,71.93359375,"ie_hacks, inline_styles",lazy_loading,
+HAPPY,happyrestaurants.com,https://happyrestaurants.com/,London,,W1D 7AG,UK,19,low,False,30,30,3,10,30,15,60,0,616.8129444122314,33.18359375,inline_styles,,
+Byron,www.byronhamburgers.com,https://www.byronhamburgers.com,London,,WC2E 7BN,UK,22,low,False,30,30,0,10,60,15,60,0,1057.305097579956,1.548828125,,,
+Strada,www.strada.co.uk,https://www.strada.co.uk/italian-restaurant/royal-festival-hall,London,,SE1 8XX,UK,100,critical,True,0,0,0,0,0,0,0,0,0.0,0.0,,,Nie udało się pobrać strony
+Wagamama,www.wagamama.com,https://www.wagamama.com/restaurants/london/royal-festival-hall-southbank,London,,SE1 8XX,UK,10,low,False,0,20,0,10,5,35,12,0,1382.861614227295,263.0869140625,inline_styles,"nuxtjs, webp, lazy_loading, http3",
+Las Iguanas,www.iguanas.co.uk,https://www.iguanas.co.uk/restaurants/london-royal-festival-hall,London,,SE1 8XX,UK,16,low,False,30,20,0,10,5,20,60,0,331.30383491516113,180.04296875,"inline_styles, yui","nuxtjs, webp, lazy_loading",
+Giraffe,www.giraffe.net,https://www.giraffe.net/,London,,SE1 8XX,UK,19,low,False,30,30,13,10,30,0,60,0,1735.022783279419,727.1708984375,"ie_hacks, inline_styles",,
+Côte Brasserie,www.cote.co.uk,https://www.cote.co.uk/restaurant/royal-festival-hall,London,,SE1 8XX,UK,16,low,False,0,30,0,25,5,20,60,0,395.25532722473145,120.80859375,inline_styles,"nextjs, lazy_loading",
+Honest Burgers,www.honestburgers.co.uk,https://www.honestburgers.co.uk/locations/south-bank/,London,,SE1 8XX,UK,13,low,False,30,30,8,20,15,0,12,0,549.4375228881836,111.3349609375,"ie_hacks, inline_styles",webp,
+Aubaine,aubaine.co.uk,https://aubaine.co.uk/locations/heddon-street/,London,,W1B 4BS,UK,11,low,False,0,30,0,10,5,0,60,0,984.9834442138672,104.0322265625,inline_styles,webp,
