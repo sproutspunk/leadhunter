@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lead Hunter Geo</title>
+    <meta name="description" content="Prosty frontend do wyszukiwania leadów w sektorach strategicznych po mieście i branży." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero">
+        <p class="eyebrow">Lead Hunter Geo</p>
+        <h1>Miasto i sektor strategiczny.</h1>
+        <p class="lede">Wpisz miasto albo kod pocztowy w UK, wybierz sektor ciężkiego przemysłu i ustaw promień w milach.</p>
+
+        <form id="searchForm" class="search-form">
+          <label>
+            <span>Miasto albo kod pocztowy</span>
+            <input id="locationInput" type="search" placeholder="np. Aberdeen albo AB10 1AA" autocomplete="off" />
+          </label>
+
+          <label>
+            <span>Sektor strategiczny</span>
+            <select id="industryInput">
+              <option value="">Wybierz sektor</option>
+              <option value="oil and gas">Oil and gas</option>
+              <option value="energy">Energy</option>
+              <option value="petrochemical">Petrochemical</option>
+              <option value="mining">Mining</option>
+              <option value="steel">Steel</option>
+              <option value="heavy manufacturing">Heavy manufacturing</option>
+              <option value="industrial engineering">Industrial engineering</option>
+              <option value="shipbuilding">Shipbuilding</option>
+              <option value="defence">Defence</option>
+              <option value="aerospace">Aerospace</option>
+              <option value="offshore">Offshore</option>
+              <option value="ports">Ports & logistics</option>
+              <option value="fabrication">Fabrication</option>
+              <option value="machinery">Machinery</option>
+              <option value="transport">Transport infrastructure</option>
+              <option value="utilities">Utilities</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Promień w milach</span>
+            <input id="radiusInput" type="number" min="1" step="1" value="10" inputmode="numeric" />
+          </label>
+
+          <button id="searchButton" class="search-button" type="submit">Szukaj</button>
+        </form>
+
+        <div class="meta-row">
+          <span id="statusPill" class="pill">Gotowe</span>
+          <span id="resultCount" class="pill pill-muted">0 wyników</span>
+        </div>
+      </section>
+
+      <section class="results-card">
+        <div class="results-header">
+          <h2>Wyniki</h2>
+          <p id="resultsNote">Wpisz lokalizację, sektor strategiczny i promień, potem kliknij Szukaj.</p>
+        </div>
+
+        <div id="resultsList" class="results-list"></div>
+      </section>
+    </main>
+  </body>
+</html>
